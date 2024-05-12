@@ -6,7 +6,7 @@
     <title>株式会社システムサポート | Product名（編集中）</title>
 
     <!-- css -->
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./style.css">
     <!-- js -->
     <script src="https://cdn.tailwindcss.com"></script> 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
