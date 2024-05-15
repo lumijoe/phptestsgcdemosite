@@ -28,8 +28,7 @@
                     <div class="w-auto justify-items-end">
                         <p class="text-2xl text-orange font-bold text-end">TEL<span class=" tracking-wider font-bold pl-2 pr-1">03-3342-9620</span></p>
                         <p class="text-[0.8rem] text-orange pl-2 text-end">受付時間  10:00~18:00【土日祝定休日】</p>
-                    </div>
-                    
+                    </div>                    
                     <nav>
                         <ul class="flex flex-row gap-[30px] wrap">
                             <li><a href="#reason" target="_self" rel="noopener noreferrer">選ばれる理由</a></li>
@@ -42,8 +41,7 @@
                 </div><br>
                 <div class="hamburger-menu" id="hamburgermenu-open"><img src="./image/img_hamburger_menu.svg" alt="" class="">
                 </div>
-            </div>
-            
+            </div>     
         </div>
         <!-- mobile hamburger menu -->
         <section class="sectionMobilenav w-[100%]">
@@ -68,11 +66,7 @@
                     <a href="./contact.html"><img src="./image/btn_trial_rounded.png" alt="" class="a-shadow "></a>
                 </div>  
             </div>   
-            
-        
-        
-        </section>
-        
+        </section> 
     </header>
 
     <!------------------------------- 
