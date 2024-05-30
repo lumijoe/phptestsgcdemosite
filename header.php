@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
-    <title>テスト | Product名（編集中）</title>
+    <title>Kojo Test | WordPress Azure</title>
     <!-- css -->
     <link rel="stylesheet" href="./style.css">
     <!-- js -->
@@ -26,7 +26,7 @@
                 <a href="/index.html" class="inline-flex flex-col justify-center"><img src="https://cdn.builder.io/api/v1/image/assets/TEMP/557d909dc04bad148e9166c9181b8eb8925cdf52a22fb7912f64499ff1faec6e?apiKey=38f7627b5364403abcba366dc95bc6e8&" alt="Company logo" class="shrink-0 self-end max-w-full aspect-[5.88] w-[350px]" /></a>
                 <div class="header-inner-nav flex flex-col flex-wrap justify-center">
                     <div class="w-auto justify-items-end">
-                        <p class="text-2xl text-orange font-bold text-end">TEL<span class=" tracking-wider font-bold pl-2 pr-1">03-3342-9620</span></p>
+                        <p class="text-2xl text-orange font-bold text-end">TEL<span class=" tracking-wider font-bold pl-2 pr-1">03-xxxx-xxxx</span></p>
                         <p class="text-[0.8rem] text-orange pl-2 text-end">受付時間  10:00~18:00【土日祝定休日】</p>
                     </div>                    
                     <nav>
@@ -58,7 +58,7 @@
                     <li><a href="#faq" target="_self" rel="noopener noreferrer">よくあるご質問</a></li>
                 </ul>
                 <div class="w-[100%] flex flex-col items-center pb-[30px] px-[11%]">
-                    <p class="text-[40px] text-[#204d47] font-bold text-[2.5rem] mobilenav-box-tel">TEL<span class=" tracking-wider font-bold pl-2 pr-1">03-3342-9620</span></p>
+                    <p class="text-[40px] text-[#204d47] font-bold text-[2.5rem] mobilenav-box-tel">TEL<span class=" tracking-wider font-bold pl-2 pr-1">03-xxxx-xxxx</span></p>
                     <p class="text-[#204d47] pl-2 text-end mobilenav-box-information">受付時間  10:00~18:00【土日祝定休日】</p>
                 </div>
                 <div class="flex flex-col items-center gap-[30px] mx-[19%]">
