@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>株式会社システムサポート | Product名（編集中）</title>
-
+    <meta name="robots" content="noindex, nofollow">
+    <title>テスト | Product名（編集中）</title>
     <!-- css -->
     <link rel="stylesheet" href="./style.css">
     <!-- js -->
