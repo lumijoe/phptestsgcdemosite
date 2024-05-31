@@ -211,46 +211,20 @@
         <section class=" sectionExample py-[80px] decoline2" id="example">
             <h1 class="text-[40px] self-center text-center text-greengreen font-semibold sectionExampleTitle mb-20">導入実績</h1>
             <ul class="example-box">
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
-                <li><img src="./image/img_logosample.png" alt=""></li>
+                <!-- WordPressメディアリンク置き換え -->
+                <!-- <li><img src="./image/img_logosample.png" alt=""></li> -->
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                <li><img src="/wp-content/uploads/2024/05/img_logosample.png" alt=""></li>
+                
             </ul>
             <p class="my-12 text-sm">※企業ロゴの掲載は順不同です</p> 
         </section>
